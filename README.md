@@ -14,9 +14,9 @@ Constantly seeking opportunities for growth and learning, I'm always expanding m
 - Technical Authoring
 - Azure & AWS
 
-- I’m currently working on a ML fitness tracking project. 
-- I’m currently learning ML concepts and methods and Im Looking into Snowflake.
-  
+#### What am I up to?
+- I’m currently working on a ML fitness tracking project, learning ML concepts and Im Looking into Snowflake.
+- I aspire to secure a position in a data-related role, initiating a fulfilling journey within the data industry driven by hands-on experience and self-study.  
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
