@@ -8,8 +8,8 @@ With experience as a Crypto Analyst, where I achieved substantial growth in pers
 Constantly seeking opportunities for growth and learning, I'm always expanding my skill set through self-study, online courses, and hands-on projects.
 
 ### Skills: 
-- Python (Machine Learning & data science)
-- SQL (Postgre & SSMS & AZURE SQL)
+- Python (Machine Learning & Data Science)
+- SQL (Postgre & SSMS & Azure SQL)
 - Tableau & PowerBI (Visualisations)
 - Technical Authoring
 - Azure & AWS
