@@ -3,7 +3,7 @@
 
 I'm a data enthusiast with a passion for using data to drive insights and inform decision-making processes. With a background in Physics with Astrophysics from Nottingham Trent University, I bring a curious and analytical mindset to every project.
 
-With experience as a Crypto Analyst, where I achieved substantial growth in personal portfolios through strategic investments in blockchain technology, and as a Data Analyst at Rolls-Royce, where I managed ETL processing, technical documentation, and developed dashboards for data reports, I've honed my skills in data analysis, database administration, technical documentation, and project management. I've leveraged tools and languages including Python, SQL, Tableau, AWS, Azure, Power BI, Excel, VBA, and more to deliver results and drive collaborative success.
+With experience as a Crypto Analyst, where I achieved substantial growth in personal portfolios through strategic investments in blockchain technology, and as a Data Analyst at Rolls-Royce, where I managed ETL processing, technical documentation, and developed dashboards for data reports, I've honed my skills in data analysis, database administration, technical documentation, and project management. 
 
 Constantly seeking opportunities for growth and learning, I'm always expanding my skill set through self-study, online courses, and hands-on projects.
 
@@ -15,7 +15,9 @@ Constantly seeking opportunities for growth and learning, I'm always expanding m
 - Azure & AWS
 
 - I’m currently working on a ML fitness tracking project. 
-- I’m currently learning Machine Learning and Snowflake.
+- I’m currently learning ML concepts and methods and Im Looking into Snowflake.
+  
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
