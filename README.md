@@ -12,7 +12,7 @@
 
 ## 2026+ Project
 
-### StudioJourney
+### [StudioJourney](https://github.com/NadeemDin/StudioJourney)
 
 A personal project aimed at solving a core fundamental issue in the creative industry. 
 To be built in private. 
