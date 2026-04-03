@@ -54,6 +54,7 @@ This GitHub represents my personal projects and independent work. It is a space 
 ## Stack
 
 Python · SQL · AWS · PostgreSQL
+
 Cursor · Claude
 
 ---
