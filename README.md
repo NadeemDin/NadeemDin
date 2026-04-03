@@ -1,6 +1,4 @@
-# Nadeem Din
-
-Building systems, tools, and fun.
+# Building systems, tools, and fun.
 
 ---
 
