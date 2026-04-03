@@ -60,4 +60,4 @@ Cursor · Claude
 
 ## Links
 
-[https://github.com/beem](https://linkedin.com/in/nadeemdin)
+[linkedin](https://linkedin.com/in/nadeemdin)
