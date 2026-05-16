@@ -1,64 +1,86 @@
-# Building systems, tools, and fun.
+# Hi, I'm Nadeem 👋
+
+**Senior Data Engineer focused on data infrastructure, semantic tooling, metadata systems, and AI-native architecture.**
+
+I currently work on internal tooling, automation systems, data workflows, and metadata-driven infrastructure within complex proprietary environments, particularly around Niagara-based building management systems (BMS), IoT integrations, sensor data, and operational platforms.
+
+A large portion of my professional work is organisation-owned and private, so this profile primarily contains personal projects, research, experiments, and architectural exploration.
 
 ---
 
-## 2026-APR-03 — A Fresh Start
+## Current Focus
 
-* Deleted legacy and unused repositories
-* Reset direction
-* Committing to building in the era of AI
+### ToonDrive V0.1 *(in progress)*
+Exploring semantic storage and retrieval architectures for structured data using normalization, semantic partitioning, manifest-driven chunking, and deterministic rehydration.
 
----
+### AWS Data Engineering
+Expanding cloud and distributed systems knowledge with a focus on scalable infrastructure and data-intensive applications.
 
-## 2026+ Project
-
-### [StudioJourney](https://github.com/NadeemDin/StudioJourney)
-
-A personal project aimed at solving a core fundamental issue in the creative industry. 
-To be built in private. 
+### Systems Design & Architecture
+Studying storage engines, indexing, partitioning, retrieval systems, and distributed systems concepts through ongoing work and reading.
 
 ---
 
-## Professionally,
+## Interests
 
-I design and build data-driven systems and internal tooling for complex, proprietary environments, including building management systems (BMS), schema translation pipelines, and automation workflows.
-
-My work focuses on:
-
-* building bespoke tooling
-* data ingestion and transformation
-* schema translation and data normalisation
-* developer tooling and observability
-* turning operational data into structured, actionable logic
-
-Built cross-platform extraction and transformation tooling for proprietary BMS data, including custom parsers for .bog formats and schema translation layers to normalise legacy data into queryable structures.
-
-None of this work can be found here.
+- Semantic storage systems
+- Metadata normalization
+- Parser and extractor tooling
+- AI-native infrastructure
+- Retrieval and knowledge systems
+- Local-first architecture
+- Schema translation systems
+- Data-intensive applications
+- IoT and telemetry systems
+- BMS and operational technology data
 
 ---
 
-## Personal Work
+## Professional Background
 
-This GitHub represents my personal projects and independent work. It is a space to explore ideas, build standalone tools, and develop systems outside of my professional environment.
+I’ve worked across:
+- Internal platform tooling
+- Niagara-based BMS environments
+- IoT and telemetry integrations
+- Parser and extractor systems
+- Sensor metadata extraction and normalization
+- Rule and condition evaluation systems
+- AWS-based automation and workflows
+- Schema translation and migration tooling
+- Sensor classification and mapping workflows
+- Data onboarding and operational infrastructure
+
+My experience sits at the intersection of:
+- data engineering,
+- systems thinking,
+- infrastructure,
+- metadata,
+- and AI-assisted workflows.
 
 ---
 
-## Direction
+## Currently Reading / Learning
 
-* Build standalone desktop tools
-* Expand StudioJourney into an industry-grade creative tool
-* Leverage AI to accelerate system design and development
-
----
-
-## Stack
-
-Python · SQL · AWS · PostgreSQL
-
-Cursor · Claude
+- Designing Data-Intensive Applications — Martin Kleppmann
+- AWS Data Engineering Associate material
+- Storage, retrieval, and semantic systems architecture
+- AI and domain-specific language model concepts
 
 ---
 
-## Links
+## Featured Projects
 
-[linkedin](https://linkedin.com/in/nadeemdin)
+### [ToonDrive](https://github.com/NadeemDin/ToonDrive)
+A local-first semantic storage and retrieval architecture for large structured datasets.
+
+### [ML Sensor Classification](https://github.com/NadeemDin/ML-Sensor-Exercise-Multiclassification)
+Machine learning experiments around sensor metadata classification and categorisation workflows.
+
+### [Retail Data Centralisation](https://github.com/NadeemDin/multinational-retail-data-centralisation)
+Data engineering and infrastructure-focused project involving ETL workflows, PostgreSQL, and cloud services.
+
+---
+
+## Philosophy
+
+I enjoy building systems that make complex or messy data more structured, queryable, understandable, and operationally useful.
