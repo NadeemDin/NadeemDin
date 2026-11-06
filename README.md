@@ -4,6 +4,6 @@ Data engineer. I turn building management systems into usable data. I built the 
 
 Now: [physical-ai-from-scratch](https://github.com/NadeemDin/physical-ai-from-scratch), live anomaly detection on a sensor rig I built, running from the hardware through streaming to the models.
 
-Most of my professional work is private. What's here is my own.
+All of my professional work is private. What's here is my own.
 
 [LinkedIn](https://linkedin.com/in/nadeemdin)
